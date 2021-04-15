@@ -1,0 +1,154 @@
+div
+{
+    border-radius: 5px;
+    }
+
+    .heading {
+    margin-left:45%;
+    padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+    }
+
+    body {
+        background: #585c68;
+        font-size: 14px;
+        line-height: 22px;
+        color: #555555;
+    }
+
+    .bold {
+        font-weight: 700;
+        font-size: 20px;
+        text-transform: uppercase;
+        color: white;
+        font-family: Verdana, sans-serif;
+        text-align: center;
+    }
+    .data {
+        font-weight: 100;
+        font-size: 20px;
+        color: white;
+        text-align: center;
+    }
+
+:left {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #6a6c6d;
+}
+
+#email{
+    float:right;
+    margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #686363;
+}
+
+#contact
+{
+    margin-left:45%;
+    padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border: none;
+        background: pink;
+        
+    }
+
+a:hover {
+    font-weight: bold;
+}
+
+tr {
+    background: #101820;
+    color: white;
+}
+
+th {
+    letter-spacing: 2px;
+    color: white;
+}
+
+h3 .hidden {
+    visibility: hidden;
+}
+
+.right
+{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    height: auto;
+    width: 99%;
+    background-color: #101820ff;
+    color: white;
+    }
+
+    
+#footer
+{
+    height:40px;
+    clear:both;
+    position: relative;
+    background-color: #4e6f91;
+    }
+    
+h3
+{
+    text-decoration: underline;
+    }
+
+#job-responsibilities
+{
+    padding: 1px;
+    }
+.job-title
+{
+    font-weight: bold;
+    }
+table
+{
+    border: 1px dashed black;
+    }
+td {
+    padding: 2px;
+    border: 5pt solid #97928e;
+    border-style: none none solid none;
+    border-width: thick;
+}
+
+#course-name
+{
+    font-weight:bold;
+    }
+
+#company-name
+{
+    height:2px;
+    text-decoration:underline;
+    }
+#job-title
+{
+    height: 5px;
+    }
+.job-duration
+{
+    float:right;
+    }
+#heading
+{
+    font-weight:bold;
+    }
